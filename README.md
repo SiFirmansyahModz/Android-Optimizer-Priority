@@ -5,5 +5,3 @@
 Android Optimizer Priority is a code that can optimize Android and prioritize certain tasks in the background
 
 This module is very suitable for multitasking and gaming because it only prioritizes tasks on the Android UI system so that it runs more optimistically
-
-Sorry if the thumbnail is only this much😅
